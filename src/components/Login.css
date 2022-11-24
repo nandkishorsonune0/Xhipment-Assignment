@@ -1,0 +1,62 @@
+.form-box{
+    width: 300px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.box{
+   display: flex;
+   flex-direction: column;
+   border-radius: 20;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    position: relative;
+    border-style: dashed;
+}
+
+.navbar{
+    background-color: #12decafb;
+    height: 15vh;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    
+}
+
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 35px; 
+    border: 20%;
+    font-family: 'georgia';
+}
+
+.signout{
+    font-weight: bolder;
+    font-size: 24px;
+    font: italic;
+    font-style: inherit;
+}
+
+Table{
+    background-color: white;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family:'Lucida Sans Unicode';
+}
+
+.intro p{
+    color: brown;
+    font-weight: bolder;
+}
+
+.user{
+    font-size: 18px;
+    font-weight: normal;
+}
+
